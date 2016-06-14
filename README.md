@@ -3,6 +3,8 @@
 CloudForms: Management Engine - Tests
 =====================================
 
+[![Join the chat at https://gitter.im/chessbyte/integration_tests](https://badges.gitter.im/chessbyte/integration_tests.svg)](https://gitter.im/chessbyte/integration_tests?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [Getting Started](http://cfme-tests.readthedocs.org/getting_started.html)
 - [Developer Guidelines](http://cfme-tests.readthedocs.org/guides/dev_guide.html)
 - [linty freshness](http://cfme-tests.readthedocs.org/guides/lint.html)
